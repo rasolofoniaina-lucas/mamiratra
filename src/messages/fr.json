@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "title": "Mamiratra | Faisons rayonner les talents locaux",
+    "description": "Mamiratra aide les petits entrepreneurs et talents locaux à gagner en visibilité grâce à des photos, vidéos et contenus professionnels accessibles."
+  },
+  "common": {
+    "skip": "Aller au contenu",
+    "contact": "Nous contacter",
+    "menuOpen": "Ouvrir le menu",
+    "menuClose": "Fermer le menu",
+    "language": "Choisir la langue",
+    "home": "Mamiratra — accueil",
+    "backHome": "Retour à l’accueil",
+    "notFoundTitle": "Cette page reste à éclairer.",
+    "notFoundDescription": "La page que vous cherchez n’existe pas. Retrouvons-nous sur l’accueil.",
+    "currency": "Ar",
+    "avatar": "Avatar illustré de {name}"
+  },
+  "nav": {
+    "home": "Accueil",
+    "mission": "Mission",
+    "services": "Services",
+    "team": "Équipe",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "PETITS ENTREPRENEURS. GRANDS TALENTS.",
+    "title": "Faisons <em>rayonner</em> ceux qui méritent d’être vus.",
+    "description": "Mamiratra aide les petits entrepreneurs, créateurs et talents locaux à gagner en visibilité grâce à des contenus simples, professionnels et accessibles.",
+    "primaryCTA": "Découvrir Mamiratra",
+    "secondaryCTA": "Voir nos services",
+    "imageAlt": "Les mains d’un artisan façonnant une poterie sur un tour",
+    "imageLabel": "Le talent est déjà là.",
+    "imageCaption": "Donnons-lui la lumière.",
+    "program": "UNE INITIATIVE EJE LABS",
+    "location": "Pensé pour les talents de Madagascar",
+    "scroll": "La suite, juste ici"
+  },
+  "mission": {
+    "eyebrow": "01 — NOTRE MISSION",
+    "title": "Donner de la visibilité <em>à ceux qui méritent d’être vus.</em>",
+    "description": "Mamiratra accompagne les petits entrepreneurs et talents locaux qui possèdent un réel savoir-faire mais manquent parfois de visibilité, de temps ou de moyens pour communiquer efficacement.",
+    "statement": "Le talent existe déjà. Nous aidons simplement les autres à le découvrir.",
+    "values": {
+      "accessible": {
+        "title": "Visibilité accessible",
+        "description": "Des solutions simples et accessibles, adaptées à votre activité et à votre budget."
+      },
+      "local": {
+        "title": "Talents locaux",
+        "description": "Mettre en lumière ceux qui créent, produisent et entreprennent près de chez nous."
+      },
+      "impact": {
+        "title": "Impact réel",
+        "description": "Transformer votre visibilité en nouvelles rencontres et en nouvelles opportunités."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "02 — CE QUE NOUS CRÉONS",
+    "title": "Votre savoir-faire. <em>Sous son meilleur jour.</em>",
+    "description": "Du contenu qui vous ressemble. Prêt à partager.",
+    "photos": {
+      "title": "Photos",
+      "description": "Des photos de vos produits et de votre activité qui donnent envie de vous découvrir.",
+      "detail": "PRODUITS · PORTRAITS · SAVOIR-FAIRE",
+      "alt": "Pains artisanaux photographiés en lumière naturelle"
+    },
+    "videos": {
+      "title": "Reels & vidéos courtes",
+      "description": "Vos gestes, votre histoire, votre énergie. En vidéos courtes pour Instagram et Facebook.",
+      "detail": "INSTAGRAM · FACEBOOK · REELS",
+      "alt": "Un artisan au travail, sujet d’une vidéo de savoir-faire"
+    },
+    "visuals": {
+      "title": "Visuels",
+      "description": "Des créations soignées pour vos produits, promotions, services et annonces.",
+      "detail": "PROMOTIONS · PRODUITS · ANNONCES",
+      "alt": "Outils et papiers colorés sur la table d’un créateur"
+    },
+    "cta": "Trouver mon offre"
+  },
+  "process": {
+    "eyebrow": "COMMENT ÇA MARCHE",
+    "title": "Simple. Humain. <em>Efficace.</em>",
+    "exchange": {
+      "title": "On échange",
+      "description": "Nous découvrons votre activité, vos envies et vos besoins."
+    },
+    "create": {
+      "title": "On crée",
+      "description": "Nous réalisons vos photos, vidéos et visuels avec soin."
+    },
+    "publish": {
+      "title": "Vous publiez",
+      "description": "Vous recevez vos contenus, prêts à être partagés."
+    }
+  },
+  "offers": {
+    "eyebrow": "03 — NOS OFFRES",
+    "title": "Un petit budget. <em>Une belle visibilité.</em>",
+    "description": "Des packs clairs, pour commencer à votre rythme.",
+    "starter": {
+      "name": "Pack Starter",
+      "description": "Le premier pas pour vous faire voir."
+    },
+    "boost": {
+      "name": "Pack Boost",
+      "description": "Un peu plus de contenu. Plus de possibilités."
+    },
+    "complete": {
+      "name": "Pack Complet",
+      "description": "Votre activité, sous tous ses angles."
+    },
+    "popular": "Le plus choisi",
+    "photos": "{count, plural, one {# photo} other {# photos}}",
+    "reels": "{count, plural, one {# Reel} other {# Reels}}",
+    "visuals": "{count, plural, one {# visuel professionnel} other {# visuels professionnels}}",
+    "perPack": "par pack",
+    "cta": "Parler de mon activité",
+    "ctaLabel": "Parler de mon activité — {pack}",
+    "note": "Vous hésitez ? On en parle et on trouve le pack qui vous convient.",
+    "whatsappMessage": "Bonjour Mamiratra ! Je souhaite parler de mon activité et du {pack}."
+  },
+  "portfolio": {
+    "eyebrow": "04 — UN APERÇU DES POSSIBLES",
+    "title": "Ils ont du talent. <em>Faisons-le voir.</em>",
+    "description": "Une petite idée de ce que nous pouvons créer ensemble.",
+    "demo": "Concept / démonstration",
+    "before": "Avant",
+    "after": "Avec Mamiratra",
+    "comparison": "Comparer le concept avant et avec Mamiratra pour {name}",
+    "beforeLabel": "Voir le concept avant pour {name}",
+    "afterLabel": "Voir le concept Mamiratra pour {name}",
+    "note": "Ces exemples sont des simulations créatives réalisées avec des photos d’illustration. Ils ne représentent ni des clients, ni des résultats réels.",
+    "bakery": {
+      "title": "Le goût du fait maison",
+      "category": "Pâtisserie",
+      "description": "Une lumière naturelle, des textures, et toute la gourmandise de vos créations.",
+      "alt": "Assortiment de pains et produits de boulangerie artisanale"
+    },
+    "restaurant": {
+      "title": "Donner envie, simplement",
+      "category": "Restauration",
+      "description": "Un visuel de menu qui fait la part belle à la fraîcheur et aux saveurs.",
+      "alt": "Plat frais et coloré avec légumes et céréales"
+    },
+    "craft": {
+      "title": "Chaque geste raconte",
+      "category": "Artisanat",
+      "description": "Mettre en scène le geste et le savoir-faire derrière chaque pièce.",
+      "alt": "Mains d’un potier façonnant une pièce artisanale"
+    },
+    "creator": {
+      "title": "Des idées qui prennent vie",
+      "category": "Créateur local",
+      "description": "Une identité visuelle qui révèle la personnalité de votre univers.",
+      "alt": "Matériel de création artisanale sur une table colorée"
+    }
+  },
+  "team": {
+    "eyebrow": "05 — L’ÉQUIPE",
+    "title": "Cinq regards. <em>Une même envie.</em>",
+    "description": "Une équipe curieuse, créative et proche de vous. Réunie pour faire rayonner les talents locaux.",
+    "tonisoa": {
+      "role": "Finance & Performance",
+      "description": "Suit les dépenses, le chiffre d’affaires, les bénéfices et les indicateurs du projet."
+    },
+    "abdi": {
+      "role": "Relation Client",
+      "description": "Comprend vos besoins, recueille les informations utiles et assure le suivi jusqu’à la livraison."
+    },
+    "vahatra": {
+      "role": "Prospection & Création de contenu",
+      "description": "Participe à la prospection, aux négociations et aux shootings photo et vidéo."
+    },
+    "miranto": {
+      "role": "Prospection & Création de contenu",
+      "description": "Participe à la prospection, aux négociations et aux shootings photo et vidéo."
+    },
+    "lucas": {
+      "role": "Creative & Digital Lead",
+      "description": "Prospection, photo, vidéo, direction artistique, visuels, montage Reels et développement du site."
+    }
+  },
+  "impact": {
+    "eyebrow": "L’EXPÉRIMENTATION EJE LABS",
+    "title": "De l’idée <em>à l’impact.</em>",
+    "description": "Notre projet avance, et ses résultats seront partagés ici. Deux semaines pour créer, apprendre et mesurer.",
+    "upcoming": "À venir",
+    "prospects": "Prospects contactés",
+    "clients": "Clients obtenus",
+    "content": "Contenus produits",
+    "revenue": "Chiffre d’affaires",
+    "profit": "Bénéfice",
+    "note": "Les indicateurs seront mis à jour avec les résultats réels de l’expérimentation."
+  },
+  "contact": {
+    "eyebrow": "ET SI ON FAISAIT BRILLER VOTRE ACTIVITÉ ?",
+    "title": "Votre activité <em>mérite d’être vue.</em>",
+    "description": "Parlons de ce que vous faites et voyons comment Mamiratra peut vous aider à le montrer.",
+    "whatsapp": "Nous contacter sur WhatsApp",
+    "whatsappMessage": "Bonjour Mamiratra ! J’aimerais parler de mon activité et découvrir vos services.",
+    "phone": "Téléphone",
+    "email": "Email",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "pending": "Nos coordonnées seront disponibles prochainement.",
+    "pendingDetail": "L’équipe prépare les premiers échanges. Retrouvez bientôt ici notre numéro WhatsApp et nos réseaux sociaux.",
+    "whatsappPending": "WhatsApp — bientôt disponible"
+  },
+  "footer": {
+    "tagline": "Des talents locaux. Un impact réel.",
+    "program": "Un projet né au sein d’EJE Labs.",
+    "copyright": "© {year} Mamiratra. Tous droits réservés.",
+    "backTop": "Retour en haut"
+  }
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180">
+<rect width="720" height="180" fill="none"/>
+<g transform="translate(26 42) scale(1.05)"><line x1="48" y1="13" x2="48" y2="27" stroke="#F59A4A" stroke-width="7" stroke-linecap="round"/>
+<line x1="25" y1="20" x2="34" y2="31" stroke="#F59A4A" stroke-width="7" stroke-linecap="round"/>
+<line x1="15" y1="40" x2="29" y2="44" stroke="#F59A4A" stroke-width="7" stroke-linecap="round"/>
+<line x1="16" y1="61" x2="30" y2="56" stroke="#F59A4A" stroke-width="7" stroke-linecap="round"/>
+<line x1="28" y1="78" x2="37" y2="66" stroke="#F59A4A" stroke-width="7" stroke-linecap="round"/>
+<line x1="70" y1="20" x2="61" y2="31" stroke="#F59A4A" stroke-width="7" stroke-linecap="round"/>
+<line x1="81" y1="40" x2="67" y2="44" stroke="#F59A4A" stroke-width="7" stroke-linecap="round"/>
+<line x1="80" y1="61" x2="66" y2="56" stroke="#F59A4A" stroke-width="7" stroke-linecap="round"/></g>
+<text x="138" y="101" font-family="Inter,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-1.8" fill="#171717">Mamiratra</text>
+<text x="141" y="137" font-family="Inter,Arial,sans-serif" font-size="19" fill="#6B6B6B">Des talents locaux. Un impact réel.</text>
+</svg>

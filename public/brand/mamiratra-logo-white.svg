@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="128" viewBox="0 0 620 128">
+<g transform="translate(16 16)"><line x1="48" y1="13" x2="48" y2="27" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+<line x1="25" y1="20" x2="34" y2="31" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+<line x1="15" y1="40" x2="29" y2="44" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+<line x1="16" y1="61" x2="30" y2="56" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+<line x1="28" y1="78" x2="37" y2="66" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+<line x1="70" y1="20" x2="61" y2="31" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+<line x1="81" y1="40" x2="67" y2="44" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+<line x1="80" y1="61" x2="66" y2="56" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/></g>
+<text x="122" y="82" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-1.6" fill="#FFFFFF">Mamiratra</text>
+</svg>

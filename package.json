@@ -1,0 +1,35 @@
+{
+  "name": "mamiratra",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0",
+    "lint": "eslint . && node scripts/check-content.mjs",
+    "typecheck": "tsc --noEmit",
+    "test:e2e": "playwright test"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "lucide-react": "1.48.0",
+    "next": "16.3.6",
+    "next-intl": "4.14.7",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "latest",
+    "@playwright/test": "latest",
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.3.6",
+    "tailwindcss": "4.3.3",
+    "typescript": "^5.9.0"
+  }
+}

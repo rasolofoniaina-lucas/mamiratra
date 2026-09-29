@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "title": "Mamiratra | Ampamirapirato ny talenta eto an-toerana",
+    "description": "Mamiratra dia manampy ireo mpandraharaha madinika sy talenta eto an-toerana ho hita kokoa amin’ny alalan’ny sary, horonan-tsary ary votoaty matihanina mora idirana."
+  },
+  "common": {
+    "skip": "Hankany amin’ny votoaty",
+    "contact": "Hifandray aminay",
+    "menuOpen": "Hanokatra ny menu",
+    "menuClose": "Hanidy ny menu",
+    "language": "Hisafidy fiteny",
+    "home": "Mamiratra — fandraisana",
+    "backHome": "Hiverina amin’ny fandraisana",
+    "notFoundTitle": "Mbola miandry hazavana ity pejy ity.",
+    "notFoundDescription": "Tsy misy ilay pejy tadiavinao. Andao hiverina amin’ny fandraisana.",
+    "currency": "Ar",
+    "avatar": "Sary fanoharana an’i {name}"
+  },
+  "nav": {
+    "home": "Fandraisana",
+    "mission": "Iraka",
+    "services": "Tolotra",
+    "team": "Ekipa",
+    "contact": "Fifandraisana"
+  },
+  "hero": {
+    "eyebrow": "ORINASA MADINIKA. TALENTA LEHIBE.",
+    "title": "<em>Ampamirapirato</em> ireo mendrika ho hita.",
+    "description": "Mamiratra dia manampy ireo mpandraharaha madinika, mpamorona ary talenta eto an-toerana mba ho hita kokoa amin’ny alalan’ny votoaty tsotra, matihanina ary mora idirana.",
+    "primaryCTA": "Hahafantatra an’i Mamiratra",
+    "secondaryCTA": "Hijery ny tolotray",
+    "imageAlt": "Tanan’ny mpanao asa tanana mamolavola vilany tanimanga",
+    "imageLabel": "Efa eo ny talenta.",
+    "imageCaption": "Andao hampahazava azy.",
+    "program": "TETIKASA AO AMIN’NY EJE LABS",
+    "location": "Ho an’ny talenta eto Madagasikara",
+    "scroll": "Mbola misy etsy ambany"
+  },
+  "mission": {
+    "eyebrow": "01 — NY IRAKAY",
+    "title": "Manampy mba ho hita kokoa <em>ireo mendrika ho hita.</em>",
+    "description": "Mamiratra dia miara-miasa amin’ireo mpandraharaha madinika sy talenta eto an-toerana izay manana fahaiza-manao, saingy mety tsy ampy fotoana, fitaovana na fahafahana hampahafantatra ny asany.",
+    "statement": "Efa eo ny talenta. Manampy ny olona hahita izany fotsiny izahay.",
+    "values": {
+      "accessible": {
+        "title": "Fahitana mora idirana",
+        "description": "Vahaolana tsotra sy mora idirana, mifanaraka amin’ny asanao sy ny teti-bolanao."
+      },
+      "local": {
+        "title": "Talenta eto an-toerana",
+        "description": "Manasongadina ireo mamorona, mamokatra ary mampandroso ny asa eto amintsika."
+      },
+      "impact": {
+        "title": "Fiantraikany tena izy",
+        "description": "Manova ny fahitana ho fifandraisana vaovao sy fahafahana vaovao."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "02 — IZAY FORONINAY",
+    "title": "Ny fahaizanao. <em>Aseho amin’ny endriny tsara indrindra.</em>",
+    "description": "Votoaty maneho anao. Vonona hozaraina.",
+    "photos": {
+      "title": "Sary",
+      "description": "Sarin’ny vokatrao sy ny asanao, manintona ny olona hahafantatra anao.",
+      "detail": "VOKATRA · OLONA · FAHAIZA-MANAO",
+      "alt": "Mofo vita tanana nalaina sary tamin’ny hazavana voajanahary"
+    },
+    "videos": {
+      "title": "Reels sy horonan-tsary fohy",
+      "description": "Ny fihetsikao, ny tantaranao, ny herinao. Horonan-tsary fohy ho an’ny Instagram sy Facebook.",
+      "detail": "INSTAGRAM · FACEBOOK · REELS",
+      "alt": "Mpanao asa tanana miasa, aseho amin’ny horonan-tsary"
+    },
+    "visuals": {
+      "title": "Sary famoronana",
+      "description": "Sary voakaly ho an’ny vokatrao, fihenam-bidy, tolotra ary fampahafantarana.",
+      "detail": "FIHENAM-BIDY · VOKATRA · VAOVAO",
+      "alt": "Fitaovana sy taratasy miloko eo amin’ny latabatry ny mpamorona"
+    },
+    "cta": "Hisafidy ny fonosako"
+  },
+  "process": {
+    "eyebrow": "NY FOMBA FIASA",
+    "title": "Tsotra. Akaiky anao. <em>Mahomby.</em>",
+    "exchange": {
+      "title": "Mifampiresaka",
+      "description": "Fantarinay ny asanao, ny fanirianao ary ny zavatra ilainao."
+    },
+    "create": {
+      "title": "Mamorona",
+      "description": "Ataonay amim-pitandremana ny sarinao, horonan-tsary ary sary famoronana."
+    },
+    "publish": {
+      "title": "Mizara ianao",
+      "description": "Voarainao ny votoaty, vonona havoaka sy hozaraina."
+    }
+  },
+  "offers": {
+    "eyebrow": "03 — NY FONOSANAY",
+    "title": "Teti-bola kely. <em>Fahitana tsara kokoa.</em>",
+    "description": "Fonosana mazava, hanombohana amin’izay mety aminao.",
+    "starter": {
+      "name": "Fonosana Starter",
+      "description": "Dingana voalohany mba ho hita kokoa."
+    },
+    "boost": {
+      "name": "Fonosana Boost",
+      "description": "Votoaty bebe kokoa. Fahafahana bebe kokoa."
+    },
+    "complete": {
+      "name": "Fonosana Complet",
+      "description": "Ny asanao, aseho amin’ny lafiny rehetra."
+    },
+    "popular": "Safidin’ny maro",
+    "photos": "Sary {count}",
+    "reels": "Reels {count}",
+    "visuals": "Sary famoronana matihanina {count}",
+    "perPack": "isaky ny fonosana",
+    "cta": "Hiresaka momba ny asako",
+    "ctaLabel": "Hiresaka momba ny asako — {pack}",
+    "note": "Mbola misalasala ? Andao hiresaka ka hisafidy izay fonosana mety aminao.",
+    "whatsappMessage": "Manao ahoana Mamiratra ! Te hiresaka momba ny asako sy ny {pack} aho."
+  },
+  "portfolio": {
+    "eyebrow": "04 — SANTIONAN’NY AZO ATAO",
+    "title": "Manana talenta izy ireo. <em>Andao haseho izany.</em>",
+    "description": "Santionany kely amin’izay azontsika foronina miaraka.",
+    "demo": "Hevitra / fampisehoana",
+    "before": "Talohan’izay",
+    "after": "Miaraka amin’i Mamiratra",
+    "comparison": "Hampitaha ny hevitra taloha sy ny an’i Mamiratra ho an’ny {name}",
+    "beforeLabel": "Hijery ny hevitra taloha ho an’ny {name}",
+    "afterLabel": "Hijery ny hevitra Mamiratra ho an’ny {name}",
+    "note": "Santionany foronina ireo, mampiasa sary fanoharana. Tsy maneho mpanjifa na vokatra tena azo izy ireo.",
+    "bakery": {
+      "title": "Ny tsiron’ny vita an-trano",
+      "category": "Mofomamy",
+      "description": "Hazavana voajanahary sy antsipiriany mampiseho ny hatsaran’ny vokatrao.",
+      "alt": "Mofo sy vokatra fanaova-mofo vita tanana"
+    },
+    "restaurant": {
+      "title": "Manaitra ny fahazotoan-komana",
+      "category": "Sakafo",
+      "description": "Sary fampahafantarana sakafo mampiseho ny hatsarany sy ny tsirony.",
+      "alt": "Sakafo vaovao sy miloko misy legioma sy voamadinika"
+    },
+    "craft": {
+      "title": "Mitantara ny fihetsika tsirairay",
+      "category": "Asa tanana",
+      "description": "Mampiseho ny fihetsika sy ny fahaiza-manao ao ambadiky ny zavatra tsirairay.",
+      "alt": "Tanan’ny mpanao vilany mamolavola asa tanana"
+    },
+    "creator": {
+      "title": "Hevitra tonga tena izy",
+      "category": "Mpamorona eto an-toerana",
+      "description": "Endrika mampiseho ny maha-izy azy ny tontolo foroninao.",
+      "alt": "Fitaovana famoronana eo amin’ny latabatra miloko"
+    }
+  },
+  "team": {
+    "eyebrow": "05 — NY EKIPA",
+    "title": "Fomba fijery dimy. <em>Faniriana iray.</em>",
+    "description": "Ekipa tia mianatra, mamorona ary akaiky anao. Miara-miasa hampamirapiratra ny talenta eto an-toerana.",
+    "tonisoa": {
+      "role": "Fitantanam-bola sy Fahombiazana",
+      "description": "Manara-maso ny fandaniana, ny vola miditra, ny tombony ary ny mari-pandrefesana ny tetikasa."
+    },
+    "abdi": {
+      "role": "Fifandraisana amin’ny Mpanjifa",
+      "description": "Mamantatra ny zavatra ilainao, manangona ny vaovao ilaina ary manara-maso hatramin’ny fanaterana."
+    },
+    "vahatra": {
+      "role": "Fitadiavana Mpanjifa sy Famoronana Votoaty",
+      "description": "Mandray anjara amin’ny fitadiavana mpanjifa, fifampiraharahana ary fakana sary sy horonan-tsary."
+    },
+    "miranto": {
+      "role": "Fitadiavana Mpanjifa sy Famoronana Votoaty",
+      "description": "Mandray anjara amin’ny fitadiavana mpanjifa, fifampiraharahana ary fakana sary sy horonan-tsary."
+    },
+    "lucas": {
+      "role": "Mpitarika ny Famoronana sy ny Nomeriaka",
+      "description": "Fitadiavana mpanjifa, sary, horonan-tsary, fitarihana famoronana, famolavolana Reels ary fananganana ny tranonkala."
+    }
+  },
+  "impact": {
+    "eyebrow": "NY FANANDRAMANA EJE LABS",
+    "title": "Avy amin’ny hevitra <em>ho amin’ny fiantraikany.</em>",
+    "description": "Mandroso ny tetikasanay, ary hozarainay eto ny vokatra. Roa herinandro hamoronana, hianarana ary handrefesana.",
+    "upcoming": "Ho avy",
+    "prospects": "Olona nifandraisana",
+    "clients": "Mpanjifa azo",
+    "content": "Votoaty novokarina",
+    "revenue": "Vola miditra",
+    "profit": "Tombony",
+    "note": "Havaozina amin’ny vokatra tena azo nandritra ny fanandramana ireo mari-pandrefesana ireo."
+  },
+  "contact": {
+    "eyebrow": "ANDAO HAMPAMIRAPIRATRA NY ASANAO",
+    "title": "Ny asanao <em>dia mendrika ho hita.</em>",
+    "description": "Andao hiresaka momba ny zavatra ataonao, sy ny fomba hanampian’i Mamiratra hampahafantatra izany.",
+    "whatsapp": "Hifandray aminay amin’ny WhatsApp",
+    "whatsappMessage": "Manao ahoana Mamiratra ! Te hiresaka momba ny asako sy hahafantatra ny tolotrareo aho.",
+    "phone": "Finday",
+    "email": "Mailaka",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "pending": "Ho hita eto tsy ho ela ny fomba hifandraisana aminay.",
+    "pendingDetail": "Manomana ny fihaonana voalohany ny ekipa. Ho hita eto tsy ho ela ny laharana WhatsApp sy ny tambajotra sosialinay.",
+    "whatsappPending": "WhatsApp — ho avy tsy ho ela"
+  },
+  "footer": {
+    "tagline": "Talenta eto an-toerana. Fiantraikany tena izy.",
+    "program": "Tetikasa niorina tao amin’ny EJE Labs.",
+    "copyright": "© {year} Mamiratra. Zo rehetra voatokana.",
+    "backTop": "Hiverina eny ambony"
+  }
+}
