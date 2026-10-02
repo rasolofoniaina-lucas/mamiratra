@@ -70,7 +70,7 @@
     "videos": {
       "title": "Reels & vidéos courtes",
       "description": "Vos gestes, votre histoire, votre énergie. En vidéos courtes pour Instagram et Facebook.",
-      "detail": "INSTAGRAM · FACEBOOK · REELS",
+      "detail": "INSTAGRAM · FACEBOOK · REELS DE 30 SECONDES",
       "alt": "Un artisan au travail, sujet d’une vidéo de savoir-faire"
     },
     "visuals": {
@@ -115,7 +115,7 @@
     },
     "popular": "Le plus choisi",
     "photos": "{count, plural, one {# photo} other {# photos}}",
-    "reels": "{count, plural, one {# Reel} other {# Reels}}",
+    "reels": "{count, plural, one {# Reel de 30 secondes} other {# Reels de 30 secondes chacun}}",
     "visuals": "{count, plural, one {# visuel professionnel} other {# visuels professionnels}}",
     "perPack": "par pack",
     "cta": "Parler de mon activité",

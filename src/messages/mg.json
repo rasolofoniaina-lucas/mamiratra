@@ -70,7 +70,7 @@
     "videos": {
       "title": "Reels sy horonan-tsary fohy",
       "description": "Ny fihetsikao, ny tantaranao, ny herinao. Horonan-tsary fohy ho an’ny Instagram sy Facebook.",
-      "detail": "INSTAGRAM · FACEBOOK · REELS",
+      "detail": "INSTAGRAM · FACEBOOK · REELS 30 SEGONDRA",
       "alt": "Mpanao asa tanana miasa, aseho amin’ny horonan-tsary"
     },
     "visuals": {
@@ -115,7 +115,7 @@
     },
     "popular": "Safidin’ny maro",
     "photos": "Sary {count}",
-    "reels": "Reels {count}",
+    "reels": "Reels {count} (30 segondra avy)",
     "visuals": "Sary famoronana matihanina {count}",
     "perPack": "isaky ny fonosana",
     "cta": "Hiresaka momba ny asako",

@@ -70,7 +70,7 @@
     "videos": {
       "title": "Reels & short videos",
       "description": "Your craft, your story, your energy. In short videos for Instagram and Facebook.",
-      "detail": "INSTAGRAM · FACEBOOK · REELS",
+      "detail": "INSTAGRAM · FACEBOOK · 30-SECOND REELS",
       "alt": "An artisan at work, the subject of a craft video"
     },
     "visuals": {
@@ -115,7 +115,7 @@
     },
     "popular": "Most popular",
     "photos": "{count, plural, one {# photo} other {# photos}}",
-    "reels": "{count, plural, one {# Reel} other {# Reels}}",
+    "reels": "{count, plural, one {# Reel (30 seconds)} other {# Reels (30 seconds each)}}",
     "visuals": "{count, plural, one {# professional visual} other {# professional visuals}}",
     "perPack": "per package",
     "cta": "Let’s talk about my business",
