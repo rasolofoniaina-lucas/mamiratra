@@ -14,7 +14,8 @@
     "notFoundTitle": "Cette page reste à éclairer.",
     "notFoundDescription": "La page que vous cherchez n’existe pas. Retrouvons-nous sur l’accueil.",
     "currency": "Ar",
-    "avatar": "Avatar illustré de {name}"
+    "portrait": "Portrait professionnel de {name}",
+    "portraitPending": "Portrait à venir"
   },
   "nav": {
     "home": "Accueil",
@@ -162,7 +163,7 @@
     "eyebrow": "05 — L’ÉQUIPE",
     "title": "Cinq regards. <em>Une même envie.</em>",
     "description": "Une équipe curieuse, créative et proche de vous. Réunie pour faire rayonner les talents locaux.",
-    "tonisoa": {
+    "voahary": {
       "role": "Finance & Performance",
       "description": "Suit les dépenses, le chiffre d’affaires, les bénéfices et les indicateurs du projet."
     },

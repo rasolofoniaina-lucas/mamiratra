@@ -14,7 +14,8 @@
     "notFoundTitle": "This page is waiting to shine.",
     "notFoundDescription": "The page you’re looking for doesn’t exist. Let’s head back home.",
     "currency": "Ar",
-    "avatar": "Illustrated avatar of {name}"
+    "portrait": "Professional portrait of {name}",
+    "portraitPending": "Portrait coming soon"
   },
   "nav": {
     "home": "Home",
@@ -162,7 +163,7 @@
     "eyebrow": "05 — THE TEAM",
     "title": "Five perspectives. <em>One shared purpose.</em>",
     "description": "A curious, creative team that’s close to you. Brought together to help local talent shine.",
-    "tonisoa": {
+    "voahary": {
       "role": "Finance & Performance",
       "description": "Tracks spending, revenue, profits and the project’s performance indicators."
     },

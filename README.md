@@ -33,7 +33,7 @@ Ouvrir [http://localhost:3000](http://localhost:3000). Une première visite arri
 public/
 ├── brand/                 # Logos officiels, conservés sans modification
 ├── images/                # Photos d’illustration remplaçables
-├── avatars/               # Cinq avatars SVG illustrés
+│   └── portrait/          # Portraits professionnels de l’équipe
 └── fonts/                 # Police locale et licence OFL
 src/
 ├── app/
@@ -63,7 +63,7 @@ Les informations évolutives se trouvent principalement dans `src/data/`. Les te
 | Modification | Fichier |
 | --- | --- |
 | Coordonnées, réseaux sociaux, domaine, photo du Hero | `src/data/site.ts` |
-| Membres, noms et chemins d’avatars | `src/data/team.ts` |
+| Membres, noms et chemins des portraits | `src/data/team.ts` |
 | Services, icônes et images | `src/data/services.ts` |
 | Prix, quantités, mise en avant des offres | `src/data/offers.ts` |
 | Valeurs et étapes | `src/data/mission.ts` |
@@ -92,7 +92,7 @@ Le bouton WhatsApp apparaît automatiquement dès qu’un numéro valide est ren
 
 Les SVG dans `public/brand/` sont ceux fournis par l’équipe : ne pas les remplacer par un logo recréé. La marge transparente du logo est recadrée dans son conteneur, avec conservation de ses proportions. Le slogan intégré aux SVG officiels reste tel que fourni ; le reste du site est traduit.
 
-Remplacer les JPG dans `public/images/`, ou modifier leurs chemins dans les données. Mettre à jour les textes alternatifs correspondants dans les trois langues. Aucune image distante n’est nécessaire à l’exécution. Les membres utilisent des avatars illustrés, dont un avatar féminin pour Vahatra.
+Remplacer les JPG dans `public/images/`, ou modifier leurs chemins dans les données. Mettre à jour les textes alternatifs correspondants dans les trois langues. Aucune image distante n’est nécessaire à l’exécution. Voahary, Vahatra, Miranto et Lucas utilisent leurs portraits professionnels dans `public/images/portrait/`. Abdi est présenté en dernier, avec la mention « Portrait à venir » tant que sa photo est absente.
 
 Le portfolio est explicitement indiqué comme **concept / démonstration**. Sa vue « Avant » simule une présentation moins travaillée ; sa vue « Avec Mamiratra » illustre une mise en page éditoriale. Ce ne sont ni des shootings clients, ni des résultats réels, ni des témoignages.
 

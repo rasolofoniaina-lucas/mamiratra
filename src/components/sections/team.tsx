@@ -11,7 +11,22 @@ export function Team() {
       <div className="container">
         <SectionHeading eyebrow={t("team.eyebrow")} title={t.rich("team.title", { em: (chunks) => <Accent>{chunks}</Accent> })} description={t("team.description")} centered />
         <div className="team-grid">
-          {team.map((member) => <article className="team-member" key={member.id} data-reveal><div className="team-avatar"><Image src={member.avatar} alt={t("common.avatar", { name: member.name })} width={200} height={200} unoptimized /></div><h3>{member.name}</h3><p className="team-role">{t(`team.${member.id}.role`)}</p><p className="team-description">{t(`team.${member.id}.description`)}</p></article>)}
+          {team.map((member) => (
+            <article className="team-member" key={member.id} data-reveal>
+              {member.portrait ? (
+                <div className="team-portrait">
+                  <Image src={member.portrait} alt={t("common.portrait", { name: member.name })} fill sizes="142px" />
+                </div>
+              ) : (
+                <div className="team-portrait team-portrait--pending">
+                  <span>{t("common.portraitPending")}</span>
+                </div>
+              )}
+              <h3>{member.name}</h3>
+              <p className="team-role">{t(`team.${member.id}.role`)}</p>
+              <p className="team-description">{t(`team.${member.id}.description`)}</p>
+            </article>
+          ))}
         </div>
       </div>
     </section>

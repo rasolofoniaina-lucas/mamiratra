@@ -26,7 +26,7 @@ for (const locale of locales) {
 
 for (const path of [
   "public/brand/mamiratra-logo-primary.svg", "public/brand/mamiratra-logo-white.svg", "public/brand/mamiratra-icon.svg", "public/brand/mamiratra-wordmark.svg",
-  ...["tonisoa", "abdi", "vahatra", "miranto", "lucas"].map((id) => `public/avatars/${id}.svg`),
+  ...["Voahary", "Vahatra", "Miranto", "Lucas"].map((name) => `public/images/portrait/${name}.png`),
   ...["bakery", "food", "ceramics", "creator"].map((id) => `public/images/${id}.jpg`),
 ]) assert.ok(existsSync(path), `Missing asset: ${path}`);
 

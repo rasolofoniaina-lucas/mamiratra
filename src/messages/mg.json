@@ -14,7 +14,8 @@
     "notFoundTitle": "Mbola miandry hazavana ity pejy ity.",
     "notFoundDescription": "Tsy misy ilay pejy tadiavinao. Andao hiverina amin’ny fandraisana.",
     "currency": "Ar",
-    "avatar": "Sary fanoharana an’i {name}"
+    "portrait": "Sary matihanina an’i {name}",
+    "portraitPending": "Ho avy ny sary"
   },
   "nav": {
     "home": "Fandraisana",
@@ -162,7 +163,7 @@
     "eyebrow": "05 — NY EKIPA",
     "title": "Fomba fijery dimy. <em>Faniriana iray.</em>",
     "description": "Ekipa tia mianatra, mamorona ary akaiky anao. Miara-miasa hampamirapiratra ny talenta eto an-toerana.",
-    "tonisoa": {
+    "voahary": {
       "role": "Fitantanam-bola sy Fahombiazana",
       "description": "Manara-maso ny fandaniana, ny vola miditra, ny tombony ary ny mari-pandrefesana ny tetikasa."
     },

@@ -1,7 +1,7 @@
 export const team = [
-  { id: "tonisoa", name: "Tonisoa", avatar: "/avatars/tonisoa.svg" },
-  { id: "abdi", name: "Abdi", avatar: "/avatars/abdi.svg" },
-  { id: "vahatra", name: "Vahatra", avatar: "/avatars/vahatra.svg" },
-  { id: "miranto", name: "Miranto", avatar: "/avatars/miranto.svg" },
-  { id: "lucas", name: "Lucas", avatar: "/avatars/lucas.svg" },
+  { id: "voahary", name: "Voahary", portrait: "/images/portrait/Voahary.png" },
+  { id: "vahatra", name: "Vahatra", portrait: "/images/portrait/Vahatra.png" },
+  { id: "miranto", name: "Miranto", portrait: "/images/portrait/Miranto.png" },
+  { id: "lucas", name: "Lucas", portrait: "/images/portrait/Lucas.png" },
+  { id: "abdi", name: "Abdi", portrait: null },
 ] as const;
